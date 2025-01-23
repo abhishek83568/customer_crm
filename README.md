@@ -1,6 +1,6 @@
 # CRM System API
 
-The **CRM System API** is a backend application built with **Node.js**, **Express**, and **Sequelize** (ORM for SQL databases). It provides functionality for user authentication, customer management, and data filtering. The API supports CRUD operations for customers and includes features like JWT-based authentication, data filtering, and pagination.
+The **Customer Management API** is a backend application built with **Node.js**, **Express**, and **Sequelize** (ORM for SQL databases). It provides functionality for user authentication, customer management, and data filtering. The API supports CRUD operations for customers and includes features like JWT-based authentication, data filtering, and pagination.
 
 ---
 
